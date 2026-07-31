@@ -62,23 +62,48 @@ goals:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>📚 Perpustakaan</h3>
-      <p>
-        Library Management System built with Laravel for managing books,
-        members, borrowing, and returning transactions efficiently.
-      </p>
-      <br/>
-      <a href="https://github.com/Regaaan/Perpustakaan">
-        <img src="https://img.shields.io/badge/View%20Repository-F97316?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td width="55%">
+
+<img src="assets/preview.png" alt="Perpustakaan Preview"/>
+
+</td>
+
+<td width="45%">
+
+# 📚 Perpustakaan
+
+![Laravel](https://img.shields.io/badge/Laravel-F97316?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Library Management System built with **Laravel** to simplify library management, including books, members, borrowing, returning, and reports.
+
+### ✨ Features
+
+- 📖 Book Management
+- 👤 Member Management
+- 🔄 Borrow & Return Books
+- 📊 Dashboard & Reports
+- 🔍 Search Books
+- 🔐 Authentication
+
+<br>
+
+<a href="https://github.com/Regaaan/Perpustakaan">
+<img src="https://img.shields.io/badge/View%20Repository-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
 </table>
+
+</div>
 ## 📊 GitHub Stats
 
 <p align="center">

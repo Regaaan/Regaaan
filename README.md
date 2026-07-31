@@ -1,16 +1,220 @@
-## Hi there 👋
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:FB923C,100:FDBA74&height=280&section=header&text=Hi%20There%2C%20I'm%20Regan%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20from%20Indonesia&descAlignY=55&descSize=18"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;Future+Fullstack+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80"/>
+
+<br/><br/>
+
+<a href="https://github.com/Regaaan">
+  <img src="https://komarev.com/ghpvc/?username=Regaaan&style=for-the-badge&color=f97316&label=PROFILE+VIEWS"/>
+</a>
+<img src="https://img.shields.io/github/followers/Regaaan?style=for-the-badge&color=f97316&labelColor=1a1a1a"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+```yaml
+name: Regan Reich
+school: SMK Muhammadiyah Kesesi
+major: Software Engineering (RPL)
+location: Indonesia 🇮🇩
+
+currently_learning:
+  - HTML & CSS
+  - JavaScript
+  - Python
+  - Git & GitHub
+
+goals:
+  - Become a Fullstack Developer
+  - Build real-world web applications
+  - Keep learning, every single day
+```
+
+<br clear="right"/>
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=light"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FB923C?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FDBA74?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FB923C?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F97316"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>Personal portfolio built to showcase my projects and skills.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Landing Page</h3>
+      <p>Responsive landing page project with modern UI design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 School Projects</h3>
+      <p>Collection of projects made during my studies at SMK.</p>
+    </td>
+    <td width="50%">
+      <h3>🛒 Cashier Application</h3>
+      <p>Simple cashier / POS application for transaction management.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Regaaan?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20All%20Repositories-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Regaaan&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regaaan&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F97316&text_color=e0e0e0"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=00000000&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Regaaan&theme=react-dark&bg_color=00000000&color=F97316&line=FB923C&point=FDBA74&hide_border=true"/>
+</p>
 
 <!--
-**Regaaan/Regaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  💡 Tips: for an animated "snake" contribution graph like the one below,
+  you need to set up the "GitHub Contribution Snake" GitHub Action in your repo.
+  Guide: https://github.com/Platane/snk
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Regaaan/Regaaan/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Regaaan">
+    <img src="https://img.shields.io/badge/GitHub-Regaaan-1a1a1a?style=for-the-badge&logo=github&logoColor=F97316"/>
+  </a>
+  <a href="https://instagram.com/rgaaan_">
+    <img src="https://img.shields.io/badge/Instagram-rgaaan__-F97316?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for stopping by — don't forget to leave a star on my repos!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,50:FB923C,100:F97316&height=150&section=footer"/>
+
+</div>
+## 🚀 Project Unggulan
+
+<div align="center">
+
+<a href="https://github.com/rgaaan/repo-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rgaaan&repo=repo-1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/rgaaan/repo-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rgaaan&repo=repo-2&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/rgaaan/repo-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rgaaan&repo=repo-3&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 Ganti `repo-1`, `repo-2`, `repo-3` dengan nama repository asli kamu supaya kartu project di atas otomatis tampil dengan data GitHub-nya.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C6FF&height=3&width=100%" width="100%"/>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rgaaan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rgaaan&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgaaan&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rgaaan&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
+
+### 🏆 Trophy
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rgaaan&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/rgaaan/rgaaan/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> 💡 Animasi snake ini otomatis aktif setelah kamu menambahkan GitHub Action `platane/snk` ke repository profil kamu (aku bisa bantu buatkan file workflow-nya kalau mau).
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:6C63FF&height=3&width=100%" width="100%"/>
+
+## 📫 Kontak & Sosial Media
+
+<div align="center">
+
+<a href="https://instagram.com/rgaaan_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rgaaan" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+> ✏️ Ganti `youremail@example.com` dan link LinkedIn dengan data kontak asli kamu.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<i>⭐️ Terima kasih sudah mampir! Jangan lupa follow ya~ </i>
+</div>

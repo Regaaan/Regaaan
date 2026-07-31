@@ -32,6 +32,7 @@ location: Indonesia 🇮🇩
 currently_learning:
   - HTML & CSS
   - JavaScript
+  - PHP
   - Python
   - Git & GitHub
 
@@ -46,15 +47,16 @@ goals:
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode,figma&theme=light"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FB923C?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FB923C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-FB923C?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FB923C?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F97316"/>
 </p>
 
@@ -80,7 +82,7 @@ goals:
     </td>
     <td width="50%">
       <h3>🛒 Cashier Application</h3>
-      <p>Simple cashier / POS application for transaction management.</p>
+      <p>Simple cashier / POS application for transaction management (PHP).</p>
     </td>
   </tr>
 </table>
@@ -96,30 +98,46 @@ goals:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Regaaan&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regaaan&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F97316&text_color=e0e0e0"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Regaaan&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regaaan&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&text_color=e0e0e0"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=00000000&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
+  <img src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
 </p>
+
+> 💡 Jika gambar stats di atas tidak muncul / muncul ikon patah: layanan ini (Vercel) kadang kena rate-limit atau sedang sibuk. Coba refresh halaman beberapa saat, biasanya normal kembali dengan sendirinya.
 
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Regaaan&theme=react-dark&bg_color=00000000&color=F97316&line=FB923C&point=FDBA74&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Regaaan&theme=react-dark&bg_color=0d1117&color=F97316&line=FB923C&point=FDBA74&hide_border=true"/>
 </p>
 
-<!--
-  💡 Tips: for an animated "snake" contribution graph like the one below,
-  you need to set up the "GitHub Contribution Snake" GitHub Action in your repo.
-  Guide: https://github.com/Platane/snk
--->
+> 💡 Karena akun ini masih baru dengan sedikit kontribusi, grafik di atas mungkin butuh waktu 1x24 jam untuk update setelah kamu commit. Judul grafik yang tidak sesuai username biasanya hilang sendiri setelah ada lebih banyak data.
+
+<details>
+<summary>🐍 Ingin tampilan "snake" animasi kontribusi seperti ular memakan kotak hijau?</summary>
+
+<br/>
+
+Fitur ini butuh setup tambahan (tidak otomatis aktif), karena perlu GitHub Action:
+
+1. Buat file `.github/workflows/snake.yml` di repo `Regaaan/Regaaan`
+2. Isi dengan konfigurasi dari [Platane/snk](https://github.com/Platane/snk)
+3. Setelah Action berjalan sekali, tambahkan baris ini ke README:
+
+```md
 <p align="center">
   <img src="https://raw.githubusercontent.com/Regaaan/Regaaan/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </p>
+```
+
+Jangan tambahkan baris ini sebelum Action-nya jalan, karena filenya belum ada dan gambar akan tampil patah (seperti yang terjadi sebelumnya).
+
+</details>
 
 ---
 

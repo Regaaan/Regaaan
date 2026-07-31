@@ -64,13 +64,20 @@ goals:
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Regaaan/Perpustakaan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Regaaan&repo=Perpustakaan&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
-  </a>
-</p>
-
-> 💡 Kartu di atas otomatis mengambil data langsung dari repo `Regaaan/Perpustakaan` (bahasa, stars, forks). Kalau kamu tambah deskripsi di GitHub (Settings repo → About), deskripsi itu juga akan otomatis muncul di kartu ini.
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <a href="https://github.com/Regaaan/Perpustakaan">
+        <h3>📚 Perpustakaan</h3>
+      </a>
+      <img src="https://img.shields.io/badge/Blade-F97316?style=flat-square&logo=laravel&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/Regaaan/Perpustakaan">
+        <img src="https://img.shields.io/badge/View%20Repository-1a1a1a?style=for-the-badge&logo=github&logoColor=F97316"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Regaaan?tab=repositories">
@@ -83,15 +90,21 @@ goals:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Regaaan&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regaaan&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&text_color=e0e0e0"/>
+  <a href="https://github.com/Regaaan">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Regaaan&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
+  </a>
+  <a href="https://github.com/Regaaan?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regaaan&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&text_color=e0e0e0"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
+  <a href="https://github.com/Regaaan">
+    <img src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
+  </a>
 </p>
 
-> 💡 Jika gambar stats di atas tidak muncul / muncul ikon patah: layanan ini (Vercel) kadang kena rate-limit atau sedang sibuk. Coba refresh halaman beberapa saat, biasanya normal kembali dengan sendirinya.
+> 💡 Layanan gratis `github-readme-stats.vercel.app` (kartu stats & top languages) sedang sering down/limit belakangan ini — ini masalah umum di layanan tersebut, bukan error dari kode kamu. Kartu-kartu di atas tetap bisa diklik untuk langsung ke profil GitHub kamu, dan gambarnya akan otomatis muncul lagi begitu layanannya pulih.
 
 ---
 

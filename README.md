@@ -64,28 +64,13 @@ goals:
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Personal portfolio built to showcase my projects and skills.</p>
-    </td>
-    <td width="50%">
-      <h3>📱 Landing Page</h3>
-      <p>Responsive landing page project with modern UI design.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💻 School Projects</h3>
-      <p>Collection of projects made during my studies at SMK.</p>
-    </td>
-    <td width="50%">
-      <h3>🛒 Cashier Application</h3>
-      <p>Simple cashier / POS application for transaction management (PHP).</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Regaaan/Perpustakaan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Regaaan&repo=Perpustakaan&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
+  </a>
+</p>
+
+> 💡 Kartu di atas otomatis mengambil data langsung dari repo `Regaaan/Perpustakaan` (bahasa, stars, forks). Kalau kamu tambah deskripsi di GitHub (Settings repo → About), deskripsi itu juga akan otomatis muncul di kartu ini.
 
 <p align="center">
   <a href="https://github.com/Regaaan?tab=repositories">

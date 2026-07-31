@@ -62,48 +62,39 @@ goals:
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="55%">
-
-<img src="assets/preview.png" alt="Perpustakaan Preview"/>
-
-</td>
-
-<td width="45%">
-
-# 📚 Perpustakaan
-
-![Laravel](https://img.shields.io/badge/Laravel-F97316?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Library Management System built with **Laravel** to simplify library management, including books, members, borrowing, returning, and reports.
-
-### ✨ Features
-
-- 📖 Book Management
-- 👤 Member Management
-- 🔄 Borrow & Return Books
-- 📊 Dashboard & Reports
-- 🔍 Search Books
-- 🔐 Authentication
-
-<br>
-
-<a href="https://github.com/Regaaan/Perpustakaan">
-<img src="https://img.shields.io/badge/View%20Repository-F97316?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>Personal portfolio built to showcase my projects and skills.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Landing Page</h3>
+      <p>Responsive landing page project with modern UI design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 School Projects</h3>
+      <p>Collection of projects made during my studies at SMK.</p>
+    </td>
+    <td width="50%">
+      <h3>🛒 Cashier Application</h3>
+      <p>Simple cashier / POS application for transaction management (PHP).</p>
+    </td>
+  </tr>
 </table>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Regaaan?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20All%20Repositories-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

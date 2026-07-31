@@ -47,7 +47,7 @@ goals:
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode,figma&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode&theme=light"/>
 </p>
 
 <p align="center">

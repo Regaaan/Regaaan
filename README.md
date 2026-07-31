@@ -25,8 +25,8 @@
 
 ```yaml
 name: Regan Reich
+role: Software Engineering Student (RPL)
 school: SMK Muhammadiyah Kesesi
-major: Software Engineering (RPL)
 location: Indonesia 🇮🇩
 
 currently_learning:
@@ -37,9 +37,9 @@ currently_learning:
   - Git & GitHub
 
 goals:
-  - Become a Fullstack Developer
-  - Build real-world web applications
-  - Keep learning, every single day
+  - Menjadi Fullstack Developer
+  - Membangun real-world web applications
+  - Terus belajar hal baru, setiap hari
 ```
 
 ---
@@ -91,20 +91,20 @@ goals:
 
 <p align="center">
   <a href="https://github.com/Regaaan">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Regaaan&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=FB923C&text_color=e0e0e0"/>
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Regaaan&theme=github_dark&title_color=F97316&text_color=e0e0e0&bg_color=0d1117&border_color=F97316&icon_color=FB923C"/>
   </a>
-  <a href="https://github.com/Regaaan?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Regaaan&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=F97316&text_color=e0e0e0"/>
+  <a href="https://github.com/Regaaan">
+    <img height="200" src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316&border=F97316"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Regaaan">
-    <img src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
+  <a href="https://github.com/Regaaan?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Regaaan&theme=github_dark&title_color=F97316&text_color=e0e0e0&bg_color=0d1117&border_color=F97316"/>
   </a>
 </p>
 
-> 💡 Layanan gratis `github-readme-stats.vercel.app` (kartu stats & top languages) sedang sering down/limit belakangan ini — ini masalah umum di layanan tersebut, bukan error dari kode kamu. Kartu-kartu di atas tetap bisa diklik untuk langsung ke profil GitHub kamu, dan gambarnya akan otomatis muncul lagi begitu layanannya pulih.
+> 💡 Kartu-kartu di atas dari layanan gratis pihak ketiga (Vercel) yang kadang bisa lambat/limit. Semuanya bisa diklik langsung ke profil GitHub kamu, dan akan otomatis normal lagi begitu layanannya pulih.
 
 ---
 

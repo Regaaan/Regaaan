@@ -104,8 +104,6 @@ goals:
   </a>
 </p>
 
-> 💡 Kartu-kartu di atas dari layanan gratis pihak ketiga (Vercel) yang kadang bisa lambat/limit. Semuanya bisa diklik langsung ke profil GitHub kamu, dan akan otomatis normal lagi begitu layanannya pulih.
-
 ---
 
 ## 📈 Contribution Activity
@@ -114,28 +112,9 @@ goals:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Regaaan&theme=react-dark&bg_color=0d1117&color=F97316&line=FB923C&point=FDBA74&hide_border=true"/>
 </p>
 
-> 💡 Karena akun ini masih baru dengan sedikit kontribusi, grafik di atas mungkin butuh waktu 1x24 jam untuk update setelah kamu commit. Judul grafik yang tidak sesuai username biasanya hilang sendiri setelah ada lebih banyak data.
-
-<details>
-<summary>🐍 Ingin tampilan "snake" animasi kontribusi seperti ular memakan kotak hijau?</summary>
-
-<br/>
-
-Fitur ini butuh setup tambahan (tidak otomatis aktif), karena perlu GitHub Action:
-
-1. Buat file `.github/workflows/snake.yml` di repo `Regaaan/Regaaan`
-2. Isi dengan konfigurasi dari [Platane/snk](https://github.com/Platane/snk)
-3. Setelah Action berjalan sekali, tambahkan baris ini ke README:
-
-```md
 <p align="center">
   <img src="https://raw.githubusercontent.com/Regaaan/Regaaan/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </p>
-```
-
-Jangan tambahkan baris ini sebelum Action-nya jalan, karena filenya belum ada dan gambar akan tampil patah (seperti yang terjadi sebelumnya).
-
-</details>
 
 ---
 

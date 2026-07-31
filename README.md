@@ -62,26 +62,38 @@ goals:
 
 ---
 
-## 🚀 Featured Repository
+## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Regaaan/perpustakaan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Regaaan&repo=perpustakaan&theme=tokyonight" />
-</a>
-
-</div>
-
-<p align="center">
-  <strong>📚 Perpustakaan</strong><br>
-  A web-based library management system built with Laravel featuring book management, member management, borrowing & returning, and dashboard analytics.
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>Personal portfolio built to showcase my projects and skills.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Landing Page</h3>
+      <p>Responsive landing page project with modern UI design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 School Projects</h3>
+      <p>Collection of projects made during my studies at SMK.</p>
+    </td>
+    <td width="50%">
+      <h3>🛒 Cashier Application</h3>
+      <p>Simple cashier / POS application for transaction management (PHP).</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Regaaan?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/See%20All%20Repositories-F97316?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ## 📊 GitHub Stats
 

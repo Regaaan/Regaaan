@@ -94,7 +94,7 @@ goals:
     <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Regaaan&theme=github_dark&title_color=F97316&text_color=e0e0e0&bg_color=0d1117&border_color=F97316&icon_color=FB923C"/>
   </a>
   <a href="https://github.com/Regaaan">
-    <img height="200" src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316&border=F97316"/>
+    <img height="200" src="https://streak-stats.demolab.com?user=Regaaan&hide_border=true&background=0d1117&ring=F97316&fire=FB923C&currStreakLabel=F97316"/>
   </a>
 </p>
 
